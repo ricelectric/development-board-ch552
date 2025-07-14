@@ -1,0 +1,11 @@
+Comment,Designator,Footprint,LCSC
+100n,C2,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,
+100n,C1,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,
+Conn_01x10,J1,PinHeader_1x10_P2.54mm_Vertical,
+1k,R2,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,
+USB_A,J3,USB_A_UseconnElectronics_USB-4AM103AS_Horizontal,
+CH552T,U1,TSSOP-20_4.4x6.5mm_P0.65mm,
+LED,D1,LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder,
+BOOT,SW1,SW_Push_SPST_NO_TVAF06-A020B-R,
+Conn_01x10,J2,PinHeader_1x10_P2.54mm_Vertical,
+10k,R1,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,

@@ -1,0 +1,11 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,100n,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,-9.525,2.54,90.0,top
+C2,100n,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,-9.525,-2.54,-90.0,top
+D1,LED,LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder,6.096,-0.0,180.0,top
+J1,Conn_01x10,PinHeader_1x10_P2.54mm_Vertical,0.0,-6.35,90.0,top
+J2,Conn_01x10,PinHeader_1x10_P2.54mm_Vertical,0.0,6.35,90.0,top
+J3,USB_A,USB_A_UseconnElectronics_USB-4AM103AS_Horizontal,-22.86,-0.0,180.0,top
+R1,10k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,6.604,2.794,-90.0,top
+R2,1k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,6.604,-2.794,-90.0,top
+SW1,BOOT,SW_Push_SPST_NO_TVAF06-A020B-R,2.794,-0.0,180.0,top
+U1,CH552T,TSSOP-20_4.4x6.5mm_P0.65mm,-3.175,-0.0,90.0,top
